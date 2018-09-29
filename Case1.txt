@@ -1,0 +1,8 @@
+Buatlah aplikasi login sederhana dengan algoritma sbb :
+
+1. user menginputkan ID. User dan Password
+	ID. User : [NIM Mahasiswa]
+	Password : mahasiswa123
+2. Jika ID. User salah maka akan muncul pesan ID. User salah dan program kembali ke proses input ID. User dan Password
+3. Jika Password salah akan muncul password salah dan program kembali ke proses input ID. Userr dan Password
+4. Jika ID.User dan password benar tercetak " Selamat Datang ID.User "
